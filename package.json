@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "gray-matter": "^4.0.3",
+    "bootstrap": "^5.3.7",
+    "front-matter": "^4.0.2",
     "react": "^19.1.0",
+    "react-bootstrap": "^2.10.10",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.7.1",
     "remark": "^15.0.1",

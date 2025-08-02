@@ -1,7 +1,8 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import AppRouter from './router'; // Importe ton routeur
-import './index.css'; // Garde l'import de ton CSS global
+import AppRouter from './router/AppRouter';
+import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
